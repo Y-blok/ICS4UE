@@ -1,0 +1,5 @@
+*.idea/
+*.class
+*.java~
+/bin/
+Map.png
